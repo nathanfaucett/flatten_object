@@ -1,5 +1,5 @@
-var has = require("has"),
-    isObject = require("is_object");
+var has = require("@nathanfaucett/has"),
+    isObject = require("@nathanfaucett/is_object");
 
 
 module.exports = flattenObject;
